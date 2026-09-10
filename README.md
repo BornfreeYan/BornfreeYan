@@ -45,7 +45,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BornfreeYan&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=BornfreeYan&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" height="165" />
 
 <br /><br />
@@ -53,8 +52,11 @@
 <img src="https://komarev.com/ghpvc/?username=BornfreeYan&style=for-the-badge&color=36BCF7" alt="Profile views" />
 
 <!--
-  想加奖杯卡片的话，先确认这个链接在浏览器里能打开（国内网络常打不开）：
-  <img src="https://github-profile-trophy.vercel.app/?username=BornfreeYan&theme=darkhub" alt="Trophy" />
+  注意：github-readme-stats 和 github-profile-trophy 都部署在 vercel.app 上，
+  实测 GitHub 的图片代理（Camo）抓不到，会显示破图 + "Error fetching resource"。
+  这不是你的网络问题——抓图的是 GitHub 的服务器，不是你的浏览器，挂代理也没用。
+  想要经典的 stats 卡片，得自己 fork 一份部署到自己的 Vercel 账号（GitHub 的服务器
+  是能访问 Vercel 的），再把下面的地址换成你自己的域名。
 -->
 
 </div>
