@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ## 🧭 About Me
 
 - 🚀 All in on **full-stack development**, building toward full-stack & agent engineering roles
