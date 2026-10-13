@@ -9,17 +9,12 @@
 
 <div align="center">
 
-# Hi, I'm BornfreeYan 👋
-
-</div>
-
 ## 🧭 About Me
 
-- 🚀 All in on **full-stack development**, building toward full-stack & agent engineering roles
-- 📚 Second priority: Passing the civil service exam, and building an AI system to improve exam-prep efficiency
-- 🧠 Side tracks: **Deep Learning** and **English** — lower priority, but a daily habit
-- 🎯 Long-term goal: **Financial Independence & Self-Growth & Inner Pease**
-- ⌨️ Out of code: I will get back to 🏀|🎹|🚅—the passions that once sustained my life.
+- 🚀 80% focus on **passing civil service exam**, 20% on full-stack/agent development, using AI to boost efficiency and initiative to create the impossible.
+- 🌅 Interested in Edge AI/Personal agent/Decentralization/Model deployment/Investment/English.
+- 🎯 Long-term goal: **Financial Independence & Self-Growth & Inner Pease**.
+- ⌨️ Out of code: I will get back to 🏀|🎹|🚅... — the passions that once sustained my life.
 
 ## 🛠 Tech Stack
 
@@ -35,7 +30,8 @@
 
 ## 🏢 Building
 
-| Project | Description |
-| :--- | :--- |
-| [WebDesk](https://github.com/BornfreeYan/WebDesk) | A personal web bookmark manager in macOS-style desktop |
-| [Morrow](https://github.com/VitaForgeLab/Morrow) | An evolving personal health intelligence system, also the first product of my organization <a href="https://github.com/VitaForgeLab"><img src="https://github.com/VitaForgeLab.png?size=40" width="20" height="20" alt="VitaForgeLab"></a> |
+| Project                                          | Description                                                                                                                              |
+| :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| [WebDesk](https://github.com/BornfreeYan/WebDesk) | A personal web bookmark manager in macOS-style desktop                                                                                   |
+| [Morrow](https://github.com/VitaForgeLab/Morrow)  | An evolving personal health intelligence system, also the first product of my organization<a href="https://github.com/VitaForgeLab"></a> |
+| [KejuLab](https://github.com/KejuLab)             | Personal civil service exam learning resouces<a href="https://github.com/KejuLab"></a> |
