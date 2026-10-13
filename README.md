@@ -7,7 +7,6 @@
 </p>
 -->
 
-<div align="center">
 
 ## 🧭 About Me
 
@@ -33,5 +32,5 @@
 | Project                                          | Description                                                                                                                              |
 | :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | [WebDesk](https://github.com/BornfreeYan/WebDesk) | A personal web bookmark manager in macOS-style desktop                                                                                   |
-| [Morrow](https://github.com/VitaForgeLab/Morrow)  | An evolving personal health intelligence system, also the first product of my organization<a href="https://github.com/VitaForgeLab"></a> |
-| [KejuLab](https://github.com/KejuLab)             | Personal civil service exam learning resouces<a href="https://github.com/KejuLab"></a> |
+| [Morrow](https://github.com/VitaForgeLab/Morrow)  | An evolving personal health intelligence system, also the first product of my organization<a href="https://github.com/VitaForgeLab"><img src="https://github.com/VitaForgeLab.png?size=80" width="40" height="40" alt="VitaForgeLab"></a> |
+| [KejuLab](https://github.com/KejuLab)             | Personal civil service exam learning resouces<a href="https://github.com/KejuLab"><img src="https://github.com/KejuLab.png?size=80" width="40" height="40" alt="KejuLab"></a> |
