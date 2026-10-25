@@ -25,18 +25,9 @@
 ## Links
 
 <div align="left">
-  <!-- 小红书：左侧黑色，右侧经典红。注：官方库暂无小红书图标，为纯文字 -->
   <a href="https://www.xiaohongshu.com/user/profile/65884126000000003d036587"><img src="https://img.shields.io/badge/小红书-BornfreeYan-FF2442?style=for-the-badge&labelColor=black" alt="小红书"></a>
-  
-  <!-- 知乎：左侧黑色，右侧知乎蓝，带知乎Logo -->
   <a href="https://www.zhihu.com/people/nsitoc"><img src="https://img.shields.io/badge/知乎-BornfreeYan-0084FF?style=for-the-badge&logo=zhihu&logoColor=white&labelColor=black" alt="知乎"></a>
-  
-  <!-- 个人博客：左侧黑色，右侧橙色，带RSS图标。如果名字有空格，请用 %20 代替空格 -->
   <a href="https://bornfreeyan.github.io/Blog"><img src="https://img.shields.io/badge/Blog-Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white&labelColor=black" alt="Blog"></a>
-  
-  <!-- 即刻：左侧黑色，右侧即刻黄，带即刻Logo。注意即刻黄底用黑色字和图标更好看 -->
   <a href="https://web.okjike.com/u/2d28994d-7bd6-466d-8f0d-d801554a488f"><img src="https://img.shields.io/badge/即刻-BornfreeYan-FFE411?style=for-the-badge&logo=jike&logoColor=black&labelColor=black" alt="即刻"></a>
-  
-  <!-- X (Twitter)：左侧灰色，右侧纯黑，带X的Logo，白色字体 -->
   <a href="https://x.com/yanbornfree/"><img src="https://img.shields.io/badge/X-BornfreeYan-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=555555" alt="X"></a>
 </div>
