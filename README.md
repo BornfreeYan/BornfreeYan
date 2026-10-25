@@ -12,25 +12,31 @@
 
 - 🚀 80% focus on **passing civil service exam**, 20% on full-stack/agent development, using AI to boost efficiency and initiative to create the impossible.
 - 🌅 Interested in Edge AI/Personal agent/Decentralization/Model deployment/Investment/English.
-- 🎯 Long-term goal: **Financial Independence & Self-Growth & Inner Pease**.
+- 🎯 Long-term goal: **Financial Independence & Self-Growth & Inner Peace**.
 - ⌨️ Out of code: I will get back to 🏀|🎹|🚅... — the passions that once sustained my life.
-
-## 🛠 Tech Stack
-
-> I will light them all up step by step.
-
-| Area | Stack |
-| :--- | :--- |
-| **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-3776AB?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /> <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-6E7681?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" /> <img src="https://img.shields.io/badge/RabbitMQ-6E7681?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" /> <img src="https://img.shields.io/badge/Go-6E7681?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" /> <img src="https://img.shields.io/badge/Gin-6E7681?style=for-the-badge&logo=gin&logoColor=008ECF" alt="Gin" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/TypeScript-6E7681?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=3178C6" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-6E7681?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS" /> |
-| **DevOps & Tools** | <img src="https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-6E7681?style=for-the-badge&logo=docker&logoColor=9AA4AD" alt="Docker" /> <img src="https://img.shields.io/badge/Nginx-6E7681?style=for-the-badge&logo=nginx&logoColor=9AA4AD" alt="Nginx" /> |
-| **Workflow** | <img src="https://img.shields.io/badge/Cursor-3776AB?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" /> <img src="https://img.shields.io/badge/Claude_Code-3776AB?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" /> |
-| **Agent related** | <img src="https://img.shields.io/badge/Agent_Stack-TBD-6E7681?style=for-the-badge" alt="Agent Stack TBD" /> |
 
 ## 🏢 Building
 
 | Project                                          | Description                                                                                                                              |
 | :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [WebDesk](https://github.com/BornfreeYan/WebDesk) | A personal web bookmark manager in macOS-style desktop                                                                                   |
-| [Morrow](https://github.com/VitaForgeLab/Morrow)  | An evolving personal health intelligence system, also the first product of my organization <a href="https://github.com/VitaForgeLab"><img src="https://github.com/VitaForgeLab.png?size=40" width="18" height="18" alt="VitaForgeLab"></a> |
-| [KejuLab](https://github.com/KejuLab)             | Personal civil service exam learning resouces <a href="https://github.com/KejuLab"><img src="https://github.com/KejuLab.png?size=40" width="18" height="18" alt="KejuLab"></a> |
+| [VitaForgeLab](https://github.com/VitaForgeLab)  | An evolving personal health intelligence system, inspired by my graduation project topic and the recent personal agent trend <a href="https://github.com/VitaForgeLab"><img src="https://github.com/VitaForgeLab.png?size=40" width="18" height="18" alt="VitaForgeLab"></a> |
+| [KejuLab](https://github.com/KejuLab)             | Personal civil service exam learning resources <a href="https://github.com/KejuLab"><img src="https://github.com/KejuLab.png?size=40" width="18" height="18" alt="KejuLab"></a> |
+
+## Links
+
+<div align="left">
+  <!-- 小红书：左侧黑色，右侧经典红。注：官方库暂无小红书图标，为纯文字 -->
+  <a href="https://www.xiaohongshu.com/user/profile/65884126000000003d036587"><img src="https://img.shields.io/badge/小红书-BornfreeYan-FF2442?style=for-the-badge&labelColor=black" alt="小红书"></a>
+  
+  <!-- 知乎：左侧黑色，右侧知乎蓝，带知乎Logo -->
+  <a href="https://www.zhihu.com/people/nsitoc"><img src="https://img.shields.io/badge/知乎-BornfreeYan-0084FF?style=for-the-badge&logo=zhihu&logoColor=white&labelColor=black" alt="知乎"></a>
+  
+  <!-- 个人博客：左侧黑色，右侧橙色，带RSS图标。如果名字有空格，请用 %20 代替空格 -->
+  <a href="https://bornfreeyan.github.io/Blog"><img src="https://img.shields.io/badge/Blog-Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white&labelColor=black" alt="Blog"></a>
+  
+  <!-- 即刻：左侧黑色，右侧即刻黄，带即刻Logo。注意即刻黄底用黑色字和图标更好看 -->
+  <a href="https://web.okjike.com/u/2d28994d-7bd6-466d-8f0d-d801554a488f"><img src="https://img.shields.io/badge/即刻-BornfreeYan-FFE411?style=for-the-badge&logo=jike&logoColor=black&labelColor=black" alt="即刻"></a>
+  
+  <!-- X (Twitter)：左侧灰色，右侧纯黑，带X的Logo，白色字体 -->
+  <a href="https://x.com/yanbornfree/"><img src="https://img.shields.io/badge/X-BornfreeYan-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=555555" alt="X"></a>
+</div>
