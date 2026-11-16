@@ -1,30 +1,17 @@
-<!--
-  可选：中英切换栏。Profile 只渲染 README.md，所谓"切换"靠顶部互相链接实现。
-  需要时放开下面这段，另建一个 README.zh-CN.md 放中文全文即可。
+Hi~ I'm **BornfreeYan**, building and studying some interesting things in public.
+<table>
+<tr>
+<td valign="middle">
 
-<p align="center">
-  <a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a>
-</p>
--->
+[![BornfreeYan的GitHub数据](https://github-readme-stats.vercel.app/api?username=BornfreeYan&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)](https://github.com/BornfreeYan)
 
+</td>
+<td valign="middle" align="right">
 
-## 🧭 About Me
+[![my-Resume](https://img.shields.io/badge/my--Resume-%E6%9F%A5%E7%9C%8B-1f425f?style=flat-square&logo=read-the-docs&logoColor=white&labelColor=2c3e50)](https://bornfreeyan.github.io/my-Resume/)
+<br><br>
+[![my-Blog](https://img.shields.io/badge/my--Blog-%E9%98%85%E8%AF%BB-1f425f?style=flat-square&logo=rss&logoColor=white&labelColor=2c3e50)](https://bornfreeyan.github.io/Blog/)
 
-- 🚀 80% focus on **passing civil service exam**, 20% on full-stack/agent development, using AI to boost efficiency and initiative to create the impossible.
-- 🌅 Interested in Edge AI/Personal agent/Decentralization/Model deployment/Investment/English.
-- 🎯 Long-term goal: **Financial Independence & Self-Growth & Inner Peace**.
-- ⌨️ Out of code: I will get back to 🏀|🎹|🚅... — the passions that once sustained my life.
-
-## 🏢 Building
-
-| Project                                          | Description                                                                                                                              |
-| :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [KejuLab](https://github.com/KejuLab)             | Personal civil service exam learning resources <a href="https://github.com/KejuLab"><img src="https://github.com/KejuLab.png?size=40" width="18" height="18" alt="KejuLab"></a> |
-
-## Links
-
-<div align="left">
-  <a href="https://www.xiaohongshu.com/user/profile/65884126000000003d036587"><img src="https://img.shields.io/badge/小红书-BornfreeYan-FF2442?style=for-the-badge&labelColor=black" alt="小红书"></a>
-  <a href="https://www.zhihu.com/people/nsitoc"><img src="https://img.shields.io/badge/知乎-BornfreeYan-0084FF?style=for-the-badge&logo=zhihu&logoColor=white&labelColor=black" alt="知乎"></a>
-  <a href="https://x.com/yanbornfree/"><img src="https://img.shields.io/badge/X-BornfreeYan-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=555555" alt="X"></a>
-</div>
+</td>
+</tr>
+</table>
