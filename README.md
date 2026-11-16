@@ -19,7 +19,6 @@
 
 | Project                                          | Description                                                                                                                              |
 | :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [VitaForgeLab](https://github.com/VitaForgeLab)  | An evolving personal health intelligence system, inspired by my graduation project topic and the recent personal agent trend <a href="https://github.com/VitaForgeLab"><img src="https://github.com/VitaForgeLab.png?size=40" width="18" height="18" alt="VitaForgeLab"></a> |
 | [KejuLab](https://github.com/KejuLab)             | Personal civil service exam learning resources <a href="https://github.com/KejuLab"><img src="https://github.com/KejuLab.png?size=40" width="18" height="18" alt="KejuLab"></a> |
 
 ## Links
