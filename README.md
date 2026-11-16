@@ -27,7 +27,5 @@
 <div align="left">
   <a href="https://www.xiaohongshu.com/user/profile/65884126000000003d036587"><img src="https://img.shields.io/badge/小红书-BornfreeYan-FF2442?style=for-the-badge&labelColor=black" alt="小红书"></a>
   <a href="https://www.zhihu.com/people/nsitoc"><img src="https://img.shields.io/badge/知乎-BornfreeYan-0084FF?style=for-the-badge&logo=zhihu&logoColor=white&labelColor=black" alt="知乎"></a>
-  <a href="https://bornfreeyan.github.io/Blog"><img src="https://img.shields.io/badge/Blog-Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white&labelColor=black" alt="Blog"></a>
-  <a href="https://web.okjike.com/u/2d28994d-7bd6-466d-8f0d-d801554a488f"><img src="https://img.shields.io/badge/即刻-BornfreeYan-FFE411?style=for-the-badge&logo=jike&logoColor=black&labelColor=black" alt="即刻"></a>
   <a href="https://x.com/yanbornfree/"><img src="https://img.shields.io/badge/X-BornfreeYan-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=555555" alt="X"></a>
 </div>
