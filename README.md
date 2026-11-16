@@ -1,16 +1,21 @@
 Hi~ I'm **BornfreeYan**, building and studying some interesting things in public.
-<table>
-<tr>
-<td valign="middle">
 
-[![BornfreeYan的GitHub数据](https://github-readme-stats.vercel.app/api?username=BornfreeYan&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)](https://github.com/BornfreeYan)
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="middle" width="55%">
+
+<img src="https://github-stats-extended.vercel.app/api?username=BornfreeYan&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" />
 
 </td>
-<td valign="middle" align="right">
+<td valign="middle" width="45%" align="right">
 
-[![my-Resume](https://img.shields.io/badge/my--Resume-%E6%9F%A5%E7%9C%8B-1f425f?style=flat-square&logo=read-the-docs&logoColor=white&labelColor=2c3e50)](https://bornfreeyan.github.io/my-Resume/)
-<br><br>
-[![my-Blog](https://img.shields.io/badge/my--Blog-%E9%98%85%E8%AF%BB-1f425f?style=flat-square&logo=rss&logoColor=white&labelColor=2c3e50)](https://bornfreeyan.github.io/Blog/)
+<a href="https://bornfreeyan.github.io/my-Resume/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📄_my--Resume-访问-22272e?style=for-the-badge&logo=read-the-docs&logoColor=58a6ff" alt="my-Resume" />
+</a>
+<br/><br/>
+<a href="https://bornfreeyan.github.io/Blog/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/✍️_my--Blog-阅读-22272e?style=for-the-badge&logo=rss&logoColor=58a6ff" alt="my-Blog" />
+</a>
 
 </td>
 </tr>
